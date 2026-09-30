@@ -1,0 +1,12 @@
+# FinShield — Payment Transaction Anomaly Detection System
+# Core dependencies for training, evaluation, notebooks, and Streamlit application
+
+pandas>=3.0.6
+numpy>=2.5.3
+scikit-learn>=1.9.1
+matplotlib>=3.11.2
+seaborn>=0.13.2
+streamlit>=1.64.0
+joblib>=1.6.0
+jupyter>=1.1.1
+ipykernel>=7.3.0

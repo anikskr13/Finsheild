@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+.venv/
+.ipynb_checkpoints/
+
+# Generated files
+models/*.pkl
+assets/screenshots/
+
+# Large Datasets (exceeds GitHub 100MB limit)
+data/*.csv
+data/creditcard.csv
